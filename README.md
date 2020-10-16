@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My-web](https://www.derianrs.website)
 
-- 💬 Ask me about **react, vue, css, html and js**
+- 💬 Ask me about **react, css, html and js**
 
 - 🌱 I’m currently learning **NextJs, Redux, Jest, PWA**
 
