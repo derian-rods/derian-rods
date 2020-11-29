@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derian Rodriguez Salazar</h1> 
 <h3 align="center">A passionate 👨‍💻 frontend developer from Sevilla, Spain 🇪🇸</h3>
 
-- 🔭 I’m currently working on [My-web](https://www.derianrs.website)
-
 - 💬 Ask me about **react, css, html and js**
 
 - 🌱 I’m currently learning **NextJs, Redux, Jest, PWA**
