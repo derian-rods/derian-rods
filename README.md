@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, CSS, HTML, JS, Redux and NodeJS**
 
-- 🌱 I’m currently learning **NextJs, Jest, PWA**
+- 🌱 I’m currently learning *docker, plsql, PWA**
 
 - 📫 How to reach me **derian.rods@gmail.com**
 
